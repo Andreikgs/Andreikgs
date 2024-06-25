@@ -1,7 +1,7 @@
 Olá! Eu sou o Andrei Kosienczuk
-💻 Cursando ADS
-🤔 Interessado em aprender mais sobre front-end
-👇 O que estou estudando no momento...
+<br>💻 Cursando ADS
+<br>🤔 Estudando e interessado em aprender mais sobre programação
+</br>👇 O que estou estudando no momento...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Zezi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
