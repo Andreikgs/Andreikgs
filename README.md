@@ -24,9 +24,9 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **Node.js** e *
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 🏆 Conquistas e Estatísticas:
 
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosienczuk&show_icons=true&theme=dark&title_color=32CD32&text_color=FFFFFF&icon_color=32CD32&bg_color=000000)
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=kosienczuk&theme=darkhub&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
 
 ---
 
