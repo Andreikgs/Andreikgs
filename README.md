@@ -1,14 +1,40 @@
-Olá! Eu sou o Andrei Kosienczuk
-<br>💻 Cursando ADS
-<br>🤔 Estudando e interessado em aprender mais sobre programação
-</br>👇 O que estou estudando no momento...
+## 👋 Olá, eu sou **Andrei Kosienczuk**!
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Zezi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Zezi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Zezi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Zezi-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Zezi-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Zezi-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Zezi-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-</div>
+Sou um desenvolvedor apaixonado por tecnologia, especializado em **Node.js** e **JavaScript**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e tenho experiência em diversas linguagens e ferramentas.
+
+---
+
+### 🚀 Tecnologias que utilizo:
+
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📌 Projetos em destaque:
+
+- 🔹 **[App em React Native](#)** - Aplicativo mobile com navegação entre telas e integração com API.
+- 🔹 **[Análise Estatística](#)** - Sistema que realiza análises de dados localmente e integra os resultados em uma API.
+
+---
+
+### 📊 Estatísticas do GitHub:
+
+![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosienczuk&show_icons=true&theme=dark&title_color=32CD32&text_color=FFFFFF&icon_color=32CD32&bg_color=000000)
+
+---
+
+### 🌎 Onde me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-kosienczuk/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kosienczuk)
+
+---
+
+💡 *Sempre aprendendo e buscando novos desafios!*
