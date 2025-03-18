@@ -24,12 +24,6 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **Node.js** e *
 
 ---
 
-### 🏆 Conquistas e Estatísticas:
-
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=kosienczuk&theme=darkhub&column=4&margin-w=10&margin-h=10&no-bg=true&no-frame=true)
-
----
-
 ### 🌎 Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-kosienczuk/)  
