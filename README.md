@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **Node.js** e *
 
 ### 📊 Linguagens mais usadas:
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kosienczuk&layout=compact&langs_count=8&theme=dark&title_color=32CD32&text_color=FFFFFF&bg_color=000000)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreikgs&layout=compact&langs_count=8&theme=dark&title_color=32CD32&text_color=FFFFFF&bg_color=000000)
 
 ---
 
