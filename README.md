@@ -4,12 +4,6 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **Node.js** e *
 
 ---
 
-## 👋 Olá, eu sou **Andrei Kosienczuk**!
-
-Sou um desenvolvedor apaixonado por tecnologia, especializado em **Node.js** e **JavaScript**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e tenho experiência em diversas linguagens e ferramentas.
-
----
-
 ### 📊 Linguagens mais usadas e 📌 Projetos em destaque:
 
 | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreikgs&layout=compact&langs_count=8&theme=dark&title_color=32CD32&text_color=FFFFFF&bg_color=000000) | **Projetos em destaque:**<br><br> - 🔹 **[Back-end - Projeto TI Sociedade](https://github.com/Andreikgs/projeto-ti-sociedade_back)** - API back-end desenvolvida em Node.js.<br> - 🔹 **[App Mobile - LiciteAqui](https://github.com/Andreikgs/LiciteAqui-Mobile)** - Aplicativo mobile para licitações, desenvolvido em React Native.<br> - 🔹 **[Análise Estatística - Data Science](https://github.com/Andreikgs/DataScience)** - Sistema que realiza análises de dados localmente e integra os resultados em uma API. |
