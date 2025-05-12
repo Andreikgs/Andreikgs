@@ -4,11 +4,20 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em **Node.js** e *
 
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andreikgs&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=006400&text_color=c9d1d9&bg_color=0d1117" alt="Andrei Kosienczuk stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andreikgs&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
-
+<div style="display: flex; justify-content: space-between; gap: 2%;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Andreikgs&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=006400&text_color=c9d1d9&bg_color=0d1117&cache_seconds=7200" 
+    style="flex: 1; max-width: 49%;" 
+    alt="Andrei Kosienczuk stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreikgs&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&cache_seconds=7200" 
+    style="flex: 1; max-width: 49%;" 
+    alt="Top Langs"
+  />
 </div>
+
+
 
 ### 📌 Projetos em destaque:
 
