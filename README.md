@@ -1,50 +1,189 @@
-## 👋 Olá, eu sou **Andrei Kosienczuk**!
+⚡ ANDREI KOSIENCZUK
 
-Sou um desenvolvedor apaixonado por tecnologia, especializado em **Node.js** e **JavaScript**. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e tenho experiência em diversas linguagens e ferramentas.
+> Software Developer
+> Building solutions. Learning constantly. Turning ideas into code.
+
+<div align="center">"FULL STACK • MOBILE • BACK-END • DATA"
+
+Desenvolvedor focado na criação de soluções modernas, APIs, aplicações mobile e sistemas voltados para problemas reais.
+
+</div>---
+
+👨‍💻 "ABOUT_ME"
+
+const andrei = {
+    location: "Londrina - PR 🇧🇷",
+    area: "Software Development",
+
+    mainStack: [
+        "JavaScript",
+        "Node.js",
+        "React Native",
+        "PHP",
+        "Laravel"
+    ],
+
+    knowledge: [
+        "Java",
+        "Python",
+        "HTML",
+        "CSS",
+        "MySQL",
+        "SQLite"
+    ],
+
+    interests: [
+        "Back-end Development",
+        "Mobile Development",
+        "APIs",
+        "Data Science",
+        "Software Architecture"
+    ],
+
+    status: "Always learning..."
+};
 
 ---
 
-<div style="display: flex; justify-content: space-between; gap: 2%;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Andreikgs&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=006400&text_color=c9d1d9&bg_color=0d1117&cache_seconds=7200" 
-    style="flex: 1; max-width: 49%;" 
-    alt="Andrei Kosienczuk stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreikgs&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117&cache_seconds=7200" 
-    style="flex: 1; max-width: 49%;" 
-    alt="Top Langs"
-  />
+🚀 "TECH_STACK"
+
+⚡ Main Technologies
+
+"JavaScript" (https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF88)
+"Node.js" (https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF88)
+"React Native" (https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=00FF88)
+"PHP" (https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=00FF88)
+"Laravel" (https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=00FF88)
+
+🧠 Other Technologies
+
+"Java" (https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00FF88)
+"Python" (https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF88)
+"MySQL" (https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF88)
+"HTML5" (https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF88)
+"CSS3" (https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF88)
+"Git" (https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF88)
+
+---
+
+🛰️ "PROJECTS"
+
+⚡ LiciteAqui
+
+«Plataforma para gerenciamento e análise de processos de licitação.»
+
+Stack
+
+"React Native" • "Node.js" • "Express" • "MySQL" • "JWT" • "Python" • "Flask"
+
+Principais recursos
+
+- 📱 Aplicação mobile desenvolvida com React Native
+- 🔐 Autenticação utilizando JWT
+- ⚙️ API REST desenvolvida em Node.js
+- 🗄️ Integração com banco de dados MySQL
+- 📊 Análise de dados utilizando Python
+- 🌎 Análise de resultados de licitações por estado
+- 📈 Visualização de desempenho e resultados
+- 🔌 API Flask dedicada às análises de Data Science
+
+MOBILE APP
+    ↓
+NODE.JS API
+    ↓
+MYSQL DATABASE
+    ↓
+PYTHON / FLASK
+    ↓
+DATA ANALYSIS
+
+---
+
+🍽️ GustoGest
+
+«Sistema pensado para centralizar e otimizar a operação de restaurantes e lanchonetes.»
+
+Objetivo
+
+Integrar diferentes partes da operação em uma única solução digital.
+
+PEDIDOS
+   ↓
+COZINHA
+   ↓
+ATENDIMENTO
+   ↓
+PAGAMENTO
+
+Conceitos aplicados
+
+"SCRUM" • "Product Backlog" • "MVP" • "BPMN" • "UML" • "Software Engineering"
+
+---
+
+📊 Data Science — ENEM 2023
+
+«Projeto de análise exploratória utilizando dados do ENEM.»
+
+Tecnologias
+
+"Python" • "Pandas" • "Matplotlib"
+
+Análises realizadas
+
+- Amostragem de dados
+- Média, mediana e moda
+- Desvio padrão
+- Distribuição de resultados
+- Comparação por tipo de escola
+- Análise dos dados do Paraná
+- Histogramas e Boxplots
+- Identificação de padrões e insights
+
+---
+
+🧩 "DEVELOPMENT_AREAS"
+
+01 ├── Back-end Development
+02 ├── REST APIs
+03 ├── JavaScript / Node.js
+04 ├── Mobile Development
+05 ├── Database Development
+06 ├── Data Analysis
+07 └── Software Engineering
+
+---
+
+📡 "CURRENT_OBJECTIVE"
+
+Continuar evoluindo como desenvolvedor de software, aprofundando principalmente meus conhecimentos em:
+
+const nextLevel = [
+    "Node.js",
+    "JavaScript",
+    "Back-end Architecture",
+    "APIs",
+    "Databases",
+    "Cloud",
+    "Clean Code"
+];
+
+Busco participar de projetos onde tecnologia seja usada para resolver problemas reais, gerar eficiência e transformar ideias em produtos funcionais.
+
+---
+
+🌐 "CONNECT"
+
+GitHub   → Andreikgs
+LinkedIn → Andrei Kosienczuk
+Location → Londrina, Paraná - Brazil
+
+---
+
+<div align="center">"< CODE • BUILD • LEARN • EVOLVE />"
+
+ANDREI KOSIENCZUK
+
+"Software Development // Technology // Innovation"
+
 </div>
-
-
-
-### 📌 Projetos em destaque:
-
-- 🔹 **[Back-end - Projeto TI Sociedade](https://github.com/Andreikgs/projeto-ti-sociedade_back)** - API back-end desenvolvida em Node.js.  
-- 🔹 **[App Mobile - LiciteAqui](https://github.com/Andreikgs/LiciteAqui-Mobile)** - Aplicativo mobile para licitações, desenvolvido em React Native.  
-- 🔹 **[Análise Estatística - Data Science](https://github.com/Andreikgs/DataScience)** - Sistema que realiza análises de dados localmente e integra os resultados em uma API.  
-
----
-
-### 🚀 Linguagens que utilizo:
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🌎 Onde me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-kosienczuk/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kosienczuk17/)
-
----
-
-💡 *Sempre aprendendo e buscando novos desafios!*
